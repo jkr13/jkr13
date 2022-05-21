@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasani_keyur" target="blank"><img src="https://img.shields.io/twitter/follow/jasani_keyur?logo=twitter&style=for-the-badge" alt="jasani_keyur" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif)" >
+<img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" >
 
 - 🔭 I’m currently working on **wordpress plugin developments**
 
